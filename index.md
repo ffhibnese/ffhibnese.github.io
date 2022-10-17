@@ -21,8 +21,8 @@
     <td width="100%">
       <h2>Biography</h2>
 
-       <p> Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019.
-          He has been recommended for admission to ITML lab, Tsinghua Univeristy. His research interest includes AI security, GAN, Federated learning, Gradient compression. </p>
+       <p> Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019.<br>He has been recommended for admission to ITML lab, Tsinghua Univeristy. His research interest includes AI security, GAN, Federated learning, Gradient compression. 
+       </p>
     </td>
   </tr>
 </table>
