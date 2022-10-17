@@ -2,16 +2,16 @@
 <table class="imgtable">
   <tr>
     <td width="26%">
-      <img src="/binliang-a.jpeg" width="100%">
+      <img src="/ffhInJyc.jpeg" width="100%">
     </td>
     <td width="74%">
-      <h2>Bin Liang</h2>
-      <p><b>Ph.D. Candidate</b></p>
-      <p><b>Research Interest: natural language processing, multimodal learning</b></p>
-      <p><b>Lab: Human Language Technology</b></p>
+      <h2>Hao Fang</h2>
+      <p><b>Undergraduate</b></p>
+      <p><b>Research Interest: AI security, GAN, Federated learning, FL gradient compression</b></p>
+      <p><b>Lab: ITML</b></p>
       <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
-      <p><b>E-mail: bin.liang@stu.hit.edu.cn</b></p>
-      <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ" target="_blank">Google Scholar</a>] [<a href="https://github.com/ffhInJyc" target="_blank">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693" target="_blank">Semantic Scholar</a>]</b></p>
+      <p><b>E-mail: ffhibnese@stu.hit.edu.cn</b></p>
+<!--       <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ" target="_blank">Google Scholar</a>] [<a href="https://github.com/ffhInJyc" target="_blank">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693" target="_blank">Semantic Scholar</a>]</b></p> -->
     </td>
   </tr>
 </table>
