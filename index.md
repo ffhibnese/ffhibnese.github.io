@@ -7,11 +7,10 @@
     <td width="74%">
       <h2>Hao Fang</h2>
       <p><b>0-year Master degree candidate</b></p>
-      <p><b>Minister of the Computer College's Development Affairs Department</b></p>
+      <p><b>Minister of the Development Affairs Department</b></p>
       <p><b>Research Interest: AI security, GAN, Federated learning, Gradient compression</b></p>
       <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
-      <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
-      <p><b>School: CET-6:595</b></p>
+      <p><b>CET-6: 595</b></p>
       <p><b>E-mail: ffhibnese@163.com</b></p>
 <!--       <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ" target="_blank">Google Scholar</a>] [<a href="https://github.com/ffhInJyc" target="_blank">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693" target="_blank">Semantic Scholar</a>]</b></p> -->
     </td>
@@ -23,7 +22,7 @@
     <td width="100%">
       <h2>Biography</h2>
 
-       <p> Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019.<br>He has been recommended for admission to ITML lab, Tsinghua Univeristy.<br> His research interest includes AI security, GAN, Federated learning, Gradient compression. 
+       <p> Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019.During his first 3 years of undergraduate, He worked hard and <br>He has been recommended for admission to Tsinghua Univeristy.<br> His research interest includes AI security, GAN, Federated learning, Gradient compression. 
        </p>
     </td>
   </tr>
@@ -34,22 +33,22 @@
   <tr>
     <td width="100%">
       <h2>Received Honors</h2>
-      Hao has received  Recently, he focuses on the following research topics (but not limited to):
-<ul>
-<li>Textual sentiment analysis</li>
+      Hao has received many honors as follows (but not limited to):
+
+<li></li>
 <li>Multimodal sentiment analysis</li>
 <li>Zero-/few-shot sentiment analysis</li>
 <li>Stance detection</li>
 <li>Fake news detection</li>
 <li>Argument mining</li>
-</ul>
+
     </td>
   </tr>
 </table>
 
 
 
-<table class="imgtable">
+<!-- <table class="imgtable">
   <tr>
     <td width="100%">
       <h2>News</h2>
@@ -259,7 +258,7 @@ Ruifeng Xu<br>
   </table>
  </td>
  </tr>
-</table>
+</table> -->
 
 
 <table class="imgtable">
@@ -289,7 +288,7 @@ Ruifeng Xu<br>
 </table>
 
 
-<table class="imgtable">
+<!-- <table class="imgtable">
   <tr>
     <td width="100%">
       <h2>Awards</h2>
@@ -305,10 +304,10 @@ Ruifeng Xu<br>
 </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 
-<table class="imgtable">
+<!-- <table class="imgtable">
   <tr>
     <td width="100%">
      <h2>Collaborators</h2>
@@ -322,7 +321,7 @@ Ruifeng Xu<br>
 </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
 
 
