@@ -6,7 +6,7 @@
     </td>
     <td width="74%">
       <h2>Hao Fang</h2>
-      <p><b>Undergraduate</b></p>
+      <p><b>An undergraduate</b></p>
       <p><b>Research Interest: AI security, GAN, Federated learning, FL gradient compression</b></p>
       <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
       <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
@@ -20,9 +20,10 @@
   <tr>
     <td width="100%">
       <h2>Biography</h2>
-      <p> Bin Liang is currently a Ph.D. student at <a href="http://www.hitsz-hlt.com/" target="_blank">Human Language Technology Lab</a>, Harbin Institute of Technology, Shenzhen, since 2018, under the supervision of Prof. <a href="http://faculty.hitsz.edu.cn/xuruifeng" target="_blank">Ruifeng Xu</a>. He is currently working with Prof. <a href="https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/" target="_blank">Yulan He</a>,
-          Prof. <a href="https://minyang.me/" target="_blank">Min Yang</a>, Prof. <a href= "https://sentic.net/erikcambria/" target="_blank">Erik Cambria</a>,
-          and Dr. <a href="https://warwick.ac.uk/fac/sci/dcs/people/lin_gui" target="_blank">Lin Gui</a>. He has published more than 20 papers in the areas of natural language understanding, sentiment analysis and opinion mining, and multimodal sentiment analysis with top conferences and journals such as <strong>ACL</strong>, <strong>EMNLP</strong>, <strong>WWW</strong>, <strong>SIGIR</strong>, <strong>ACM MM</strong>, <strong>ACM TOIS</strong>, <strong>IEEE TAC</strong>, etc.</p>
+       <!-- under the supervision of Prof. <a href="http://faculty.hitsz.edu.cn/xuruifeng" target="_blank">Ruifeng Xu</a>. He is currently working with Prof. <a href="https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/" target="_blank">Yulan He</a>, -->
+        <p> Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019.
+          He has been recommended for admission to ITML lab, Tsinghua Univeristy. His research interest includes AI security, GAN, Federated learning, Gradient compression. 
+<!--           more than 20 papers in the areas of natural language understanding, sentiment analysis and opinion mining, and multimodal sentiment analysis with top conferences and journals such as <strong>ACL</strong>, <strong>EMNLP</strong>, <strong>WWW</strong>, <strong>SIGIR</strong>, <strong>ACM MM</strong>, <strong>ACM TOIS</strong>, <strong>IEEE TAC</strong>, etc.</p> -->
     </td>
   </tr>
 </table>
@@ -31,8 +32,8 @@
 <table class="imgtable">
   <tr>
     <td width="100%">
-      <h2>Research Interest</h2>
-      Bin's research centres on the field of <strong>natural language processing</strong> and <strong>multimodal learning</strong>, specializing in particular in developing deep learning and zero-/few-shot learning techniques for sentiment computation on textual and multimodal data. Some of his interested research topics include <strong>sentiment analysis</strong>, <strong>opinion mining</strong>, <strong>argument mining</strong>, <strong>multimodal representation learning</strong>, <strong>social media analytics</strong>, and <strong>zero-/few-shot learning</strong>. Recently, he focuses on the following research topics (but not limited to):
+      <h2>Received Honors</h2>
+      Hao has received  Recently, he focuses on the following research topics (but not limited to):
 <ul>
 <li>Textual sentiment analysis</li>
 <li>Multimodal sentiment analysis</li>
