@@ -67,7 +67,11 @@
   <tr>
     <td width="100%">
       <h2>Skills</h2>
-      - 
+      <li>C language programming</li>
+      <li>Python/Pytorch programming</li>
+      <li>Application of GAN model</li>
+      <li>Distributed gradient compression</li>
+      <li>Machine learning algorithm</li>
     </td>
   </tr>
 </table>
