@@ -53,7 +53,7 @@
   <tr>
     <td width="100%">
       <h2>Project Experimence</h2>
-      <li>2019-2020  WeChat applet development project for campus market trading.</li><br>
+      <li>2019-2020  WeChat applet development project for campus market trading.</li>
       <p>As the team leader, he is mainly responsible for the front-end development and interface building of WeChat applet.</p>
       <li>2021.12-2022.8  The federated learning project cooperated by the big data center laboratory and China Unicom Payment Corporation.</li> 
       <p>In the early stage, he was responsible for the research and learning of homomorphic encryption algorithm and the research of federated learning algorithms such as logical regression under semi-homomorphic encryption. In the middle stage, he is responsible for the deployment of the stand-alone FATE framework and the operation and implementation of the FATE federated learning algorithm. He has done experiments and written technical documents for many times, which have been highly praised by teachers.</p>
@@ -69,6 +69,7 @@
       <h2>Skills</h2>
       <li>C language programming</li>
       <li>Python/Pytorch programming</li>
+      <li>Federated learning</li>
       <li>Application of GAN model</li>
       <li>Distributed gradient compression</li>
       <li>Machine learning algorithm</li>
