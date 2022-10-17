@@ -7,7 +7,7 @@
     <td width="74%">
       <h2>Hao Fang</h2>
       <p><b>An undergraduate</b></p>
-      <p><b>Research Interest: AI security, GAN, Federated learning, FL gradient compression</b></p>
+      <p><b>Research Interest: AI security, GAN, Federated learning, Gradient compression</b></p>
       <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
       <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
       <p><b>E-mail: ffhibnese@163.com</b></p>
@@ -20,10 +20,9 @@
   <tr>
     <td width="100%">
       <h2>Biography</h2>
-       <!-- under the supervision of Prof. <a href="http://faculty.hitsz.edu.cn/xuruifeng" target="_blank">Ruifeng Xu</a>. He is currently working with Prof. <a href="https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/" target="_blank">Yulan He</a>, -->
-        <p> Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019.
-          He has been recommended for admission to ITML lab, Tsinghua Univeristy. His research interest includes AI security, GAN, Federated learning, Gradient compression. 
-<!--           more than 20 papers in the areas of natural language understanding, sentiment analysis and opinion mining, and multimodal sentiment analysis with top conferences and journals such as <strong>ACL</strong>, <strong>EMNLP</strong>, <strong>WWW</strong>, <strong>SIGIR</strong>, <strong>ACM MM</strong>, <strong>ACM TOIS</strong>, <strong>IEEE TAC</strong>, etc.</p> -->
+
+       <p> Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019.
+          He has been recommended for admission to ITML lab, Tsinghua Univeristy. His research interest includes AI security, GAN, Federated learning, Gradient compression. </p>
     </td>
   </tr>
 </table>
