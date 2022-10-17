@@ -73,9 +73,10 @@
 </ul>
     </td>
   </tr>
-</table>
+</table> -->
 
-<table class="imgtable">
+
+<!-- <table class="imgtable">
   <tr>
     <td width="100%">
 <h2>Selected Publications</h2>
@@ -258,8 +259,8 @@ Ruifeng Xu<br>
   </table>
  </td>
  </tr>
-</table> -->
-
+</table> 
+ -->
 
 <!-- <table class="imgtable">
   <tr>
