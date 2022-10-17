@@ -8,7 +8,7 @@
       <h2>Hao Fang</h2>
       <p><b>Undergraduate</b></p>
       <p><b>Research Interest: AI security, GAN, Federated learning, FL gradient compression</b></p>
-      <p><b>Lab: ITML</b></p>
+      <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
       <p><b>School: Harbin Institute of Technology, Shenzhen, China</b></p>
       <p><b>E-mail: ffhibnese@163.com</b></p>
 <!--       <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ" target="_blank">Google Scholar</a>] [<a href="https://github.com/ffhInJyc" target="_blank">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693" target="_blank">Semantic Scholar</a>]</b></p> -->
