@@ -22,7 +22,7 @@
     <td width="100%">
       <h2>Biography</h2>
 
-       <p>Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019. During his first 3 years of undergraduate, He worked hard and got 94.414/100, ranking 6 among 324 students.He has been recommended for admission to Tsinghua Univeristy.His research interest includes AI security, GAN, Federated learning, Gradient compression. <br>And He is fond of playing basketball and swiming in his spare time!</p>
+       <p>Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019. During his first 3 years of undergraduate, He worked hard and got 94.414/100, ranking 6 among 324 students.He has been recommended for admission to Tsinghua Univeristy(Supervisor: Shutao Xia).His research interest includes AI security, GAN, Federated learning, Gradient compression. <br>And He is fond of playing basketball and swiming in his spare time!</p>
     </td>
   </tr>
 </table>
