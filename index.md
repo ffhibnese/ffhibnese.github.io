@@ -41,7 +41,7 @@
 <li>Provincial second prize of the National College Students' mathematics competition</li>
 <li>Provincial third prize of the National College Students' mathematical modeling competition</li>
 <li>Honorable Mention of the American College Students' mathematical modeling competition</li>
-<li>The second prize of the 17th National University Student Smart Car Competition of Aerospace Smart Logistics in China Southern District</li>
+<li>The second prize of the 17th National University Student Smart Car Competition in China Southern District</li>
 <li>National Encouragement Scholarship</li>
 
     </td>
