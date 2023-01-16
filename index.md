@@ -33,9 +33,10 @@
     <td width="100%">
       <h2>Received Honors</h2>
       <p>Hao has received many honors as follows (but not limited to):</p>
+<li><b>National Scholarship for Undergraduate Students</b> Top 1.5%</li>
 <li>First class scholarship * 3 Top 5% </li>
 <li>GongJin scholarship Top 1.85%</li>
-<li><b>National Scholarship for Undergraduate Students</b> Top 1.5%</li>
+<li>Fang Binxing Scholarship</li>
 <li>School-level Excellent students * 2</li>
 <li>School-level Excellent League Member</li>
 <li>Provincial second prize of the National College Students' mathematics competition</li>
