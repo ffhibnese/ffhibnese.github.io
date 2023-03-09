@@ -36,6 +36,7 @@
 <li>First class scholarship * 3 Top 5% </li>
 <li>GongJin scholarship Top 1.85%</li>
 <li>Fang Binxing Scholarship</li>
+<li>SaiWei Scholarship</li>
 <li>School-level Excellent students * 2</li>
 <li>School-level Excellent League Member</li>
 <li>Provincial second prize of the National College Students' mathematics competition</li>
