@@ -7,11 +7,11 @@
     <td width="74%">
       <h2>Hao Fang</h2>
       <p><b>0-year Master degree candidate</b></p>
-      <p><b>Minister of the Development Affairs Department</b></p>
+      <p><b>Address: Harbin Institute of Technology, Shenzhen, Guangdong Province, China</b></p>
       <p><b>Research Interest: AI security, GAN, Federated learning, Gradient compression</b></p>
       <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
       <p><b>E-mail: ffhibnese@163.com</b></p>
-<!--       <p><b>[<a href="https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=djpQeLEAAAAJ" target="_blank">Google Scholar</a>] [<a href="https://github.com/ffhInJyc" target="_blank">GitHub</a>] [<a href="https://www.semanticscholar.org/author/Bin-Liang/144691693" target="_blank">Semantic Scholar</a>]</b></p> -->
+<!--       <p><b>[<a href="" target="_blank">Google Scholar</a>] [<a href="https://github.com/ffhInJyc" target="_blank">GitHub</a>] [<a href="" target="_blank">Semantic Scholar</a>]</b></p> -->
     </td>
   </tr>
 </table>
@@ -57,7 +57,7 @@
       <li>2021.12-2022.8  The federated learning project cooperated by ICES Lab and China Unicom Payment Corporation.</li> 
       <p>In the early stage, he was responsible for the research and learning of homomorphic encryption algorithm and the research of federated learning algorithms such as logical regression under semi-homomorphic encryption. In the middle stage, he is responsible for the deployment of the stand-alone FATE framework and the operation and implementation of the FATE federated learning algorithm. In the later stage, he is responsible for cross-version transplant of  vertical federated model merge , and writing the report for final check.He has done experiments and written technical documents for many times, which have been highly praised by teachers.</p>
       <li>2022.3-2022.7   Internship in the ITML lab of Tsinghua University. </li>
-      <p>He mainly study federal/distributed gradient compression algorithm and gradient based leak attack. So far, he have read more than 20 papers, reproduced a number of experiments, and written nearly 40 pages of reports. During this period, he assist his fellow to finish an article and contribute it to INFOCOM.</p>
+      <p>He mainly study federated/distributed gradient compression algorithm and gradient based leak attack. So far, he have read more than 20 papers, reproduced a number of experiments, and written nearly 40 pages of reports. During this period, he assist his fellow to finish an article and contribute it to INFOCOM.</p>
     </td>
   </tr>
 </table>
