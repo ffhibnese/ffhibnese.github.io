@@ -40,6 +40,7 @@
 <li>School-level Excellent students * 2</li>
 <li>School-level Excellent League Member * 2</li>
 <li>Excellent Student Model 0.3%</li>
+<li>Outstanding Student Award for Scientific Research Commendation of Guangdong Provincial Key Laboratory</li>
 <li>Provincial First Prize in the Blue Bridge Cup Program Competition</li>
 <li>Provincial second prize of the National College Students' mathematics competition</li>
 <li>Provincial third prize of the National College Students' mathematical modeling competition</li>
