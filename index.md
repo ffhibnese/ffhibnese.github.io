@@ -68,6 +68,17 @@
 <table class="imgtable">
   <tr>
     <td width="100%">
+      <h2>Publication</h2>
+      <li>Hao Fang, Bin Chen#, Xuan Wang, Zhi Wang, Shu-Tao Xia, GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization, International Conference on Computer Vision 2023 (ICCV-23), accepted. (CCF A, TsinghuaCS: A).</li>
+
+    </td>
+  </tr>
+</table>
+
+
+<table class="imgtable">
+  <tr>
+    <td width="100%">
       <h2>Skills</h2>
       <li>C language programming</li>
       <li>Python/Pytorch programming</li>
