@@ -8,7 +8,7 @@
       <h2>Hao Fang</h2>
       <p><b>0-year Master degree candidate</b></p>
       <p><b>Address: Harbin Institute of Technology, Shenzhen, Guangdong Province, China</b></p>
-      <p><b>Research Interest: AI security, GAN, Federated learning, Gradient compression</b></p>
+      <p><b>Research Interest: AI security, Federated learning, Gradient compression</b></p>
       <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
       <p><b>E-mail: ffhibnese@163.com</b></p>
 <!--       <p><b>[<a href="" target="_blank">Google Scholar</a>] [<a href="https://github.com/ffhInJyc" target="_blank">GitHub</a>] [<a href="" target="_blank">Semantic Scholar</a>]</b></p> -->
@@ -21,7 +21,7 @@
     <td width="100%">
       <h2>Biography</h2>
 
-       <p>Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019. During his first 3 years of undergraduate, he worked hard and ranked in the top 1.85%. He has been recommended for admission to <b>Tsinghua Univeristy(Supervisor: Shutao Xia)</b>. His research interest includes AI security, GAN, Federated learning, Gradient compression. <br>And He is fond of <b>playing basketball and doing some workouts</b> in his spare time!</p>
+       <p>Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019. During his first 3 years of undergraduate, he worked hard and ranked in the top 1.85%. He has been recommended for admission to <b>Tsinghua Univeristy(Supervisor: Shutao Xia)</b>. His research interest includes AI security, GAN, Federated learning, and Gradient compression. <br>And He is fond of <b>playing basketball and doing some workouts</b> in his spare time!</p>
     </td>
   </tr>
 </table>
@@ -56,11 +56,11 @@
     <td width="100%">
       <h2>Project Experimence</h2>
       <li>2019-2020  WeChat applet development project for campus market trading.</li>
-      <p>As the team leader, he is mainly responsible for the front-end development and interface building of WeChat applet.</p>
+      <p>As the team leader, he is mainly responsible for the front-end development and interface building of the WeChat applet.</p>
       <li>2021.12-2022.8  The federated learning project cooperated by ICES Lab and China Unicom Payment Corporation.</li> 
-      <p>In the early stage, he was responsible for the research and learning of homomorphic encryption algorithm and the research of federated learning algorithms such as logical regression under semi-homomorphic encryption. In the middle stage, he is responsible for the deployment of the stand-alone FATE framework and the operation and implementation of the FATE federated learning algorithm. In the later stage, he is responsible for cross-version transplant of  vertical federated model merge , and writing the report for final check.He has done experiments and written technical documents for many times, which have been highly praised by teachers.</p>
+      <p>In the early stage, he was responsible for the research and learning of homomorphic encryption algorithms and the research of federated learning algorithms such as logical regression under semi-homomorphic encryption. In the middle stage, he is responsible for the deployment of the stand-alone FATE framework and the operation and implementation of the FATE federated learning algorithm. In the later stage, he is responsible for the cross-version transplant of  vertical federated model merge, and writing the report for final check. He has done experiments and written technical documents many times, which have been highly praised by teachers.</p>
       <li>2022.3-2022.7   Internship in the ITML lab of Tsinghua University. </li>
-      <p>He mainly study federated/distributed gradient compression algorithm and gradient based leak attack. So far, he have read more than 20 papers, reproduced a number of experiments, and written nearly 40 pages of reports. During this period, he assist his fellow to finish an article and contribute it to INFOCOM.</p>
+      <p>He mainly studies federated/distributed gradient compression algorithms and gradient-based leakage attacks. So far, he has read more than 20 papers, reproduced a number of experiments, and written nearly 40 pages of reports. During this period, he assists his fellow to finish an article and contribute it to INFOCOM.</p>
     </td>
   </tr>
 </table>
@@ -69,7 +69,7 @@
   <tr>
     <td width="100%">
       <h2>Publication</h2>
-      <li><b>Hao Fang</b>, Bin Chen, Xuan Wang, Zhi Wang, Shu-Tao Xia, GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization, International Conference on Computer Vision 2023 (ICCV-23), accepted. (CCF A, TsinghuaCS: A).</li>
+      <li><b>Hao Fang</b>, Bin Chen, Xuan Wang, Zhi Wang, Shu-Tao Xia, GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization, International Conference on Computer Vision 2023 (ICCV-23), accepted. (CCF A, TsinghuaCS: A). <a href='https://github.com/ffhibnese/GIFD'>code</a></li>
 
     </td>
   </tr>
