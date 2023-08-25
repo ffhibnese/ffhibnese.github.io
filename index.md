@@ -6,11 +6,11 @@
     </td>
     <td width="74%">
       <h2>Hao Fang</h2>
-      <p><b>0-year Master degree candidate</b></p>
-      <p><b>Address: Harbin Institute of Technology, Shenzhen, Guangdong Province, China</b></p>
-      <p><b>Research Interest: AI security, Federated learning, Gradient compression</b></p>
+      <p><b>1-year Master degree candidate</b></p>
+      <p><b>Address: SIGS, Tsinghua University, Shenzhen, Guangdong Province, China</b></p>
+      <p><b>Research Interest: Trustworthy AI, Computer Vision, Gradient compression</b></p>
       <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
-      <p><b>E-mail: ffhibnese@163.com</b></p>
+      <p><b>E-mail: fang-h23@mails.tsinghua.edu.cn</b></p>
 <!--       <p><b>[<a href="" target="_blank">Google Scholar</a>] [<a href="https://github.com/ffhInJyc" target="_blank">GitHub</a>] [<a href="" target="_blank">Semantic Scholar</a>]</b></p> -->
     </td>
   </tr>
@@ -21,7 +21,8 @@
     <td width="100%">
       <h2>Biography</h2>
 
-       <p>Hao Fang is currently an undergraduate student at Harbin Institute of Technology, Shenzhen, since 2019. During his first 3 years of undergraduate, he worked hard and ranked in the top 1.85%. He has been recommended for admission to <b>Tsinghua Univeristy(Supervisor: Shutao Xia)</b>. His research interest includes AI security, GAN, Federated learning, and Gradient compression. <br>And He is fond of <b>playing basketball and doing some workouts</b> in his spare time!</p>
+       <p>I am a first-year Master's student in the ITML lab in the SIGS, Tsinghua University, supervised by Prof.Shu-Tao Xia. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen in 2023.  
+       My research interest includes Trustworthy AI, GAN, and Gradient compression. <br>And I enjoy <b>playing basketball and doing some workouts</b> in my spare time!</p>
     </td>
   </tr>
 </table>
@@ -42,14 +43,25 @@
 <li>Excellent Student Model 0.3%</li>
 <li>Outstanding Student Award for Scientific Research Commendation of Guangdong Provincial Key Laboratory</li>
 <li>Provincial First Prize in the Blue Bridge Cup Program Competition</li>
-<li>Provincial second prize of the National College Students' mathematics competition</li>
-<li>Provincial third prize of the National College Students' mathematical modeling competition</li>
-<li>Honorable Mention of the American College Students' mathematical modeling competition</li>
+<li>Provincial second prize of the National College Students' Mathematics Competition </li>
+<li>Provincial third prize of the National College Students' Mathematical Modeling Competition </li>
+<li>Honorable Mention of the American College Students' Mathematical Modeling Competition </li>
 <li>The second prize of the 17th National University Student Smart Car Competition in China Southern District</li>
 
     </td>
   </tr>
 </table>
+
+<table class="imgtable">
+  <tr>
+    <td width="100%">
+      <h2>Publication</h2>
+      <li><b>Hao Fang</b>, Bin Chen, Xuan Wang, Zhi Wang, Shu-Tao Xia, GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization, International Conference on Computer Vision 2023 (ICCV-23), accepted. <b>(CCF A, TsinghuaCS: A)</b>. <a href='https://github.com/ffhibnese/GIFD'>code</a></li>
+
+    </td>
+  </tr>
+</table>
+
 
 <table class="imgtable">
   <tr>
@@ -64,17 +76,6 @@
     </td>
   </tr>
 </table>
-
-<table class="imgtable">
-  <tr>
-    <td width="100%">
-      <h2>Publication</h2>
-      <li><b>Hao Fang</b>, Bin Chen, Xuan Wang, Zhi Wang, Shu-Tao Xia, GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization, International Conference on Computer Vision 2023 (ICCV-23), accepted. (CCF A, TsinghuaCS: A). <a href='https://github.com/ffhibnese/GIFD'>code</a></li>
-
-    </td>
-  </tr>
-</table>
-
 
 <table class="imgtable">
   <tr>
