@@ -8,7 +8,7 @@
       <h2>Hao Fang</h2>
       <p><b>1-year Master degree candidate</b></p>
       <p><b>Address: SIGS, Tsinghua University, Shenzhen, Guangdong Province, China</b></p>
-      <p><b>Research Interest: Trustworthy AI, Computer Vision, Gradient compression</b></p>
+      <p><b>Research Interest: Trustworthy AI, Computer Vision, Gradient Compression</b></p>
       <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
       <p><b>E-mail: fang-h23@mails.tsinghua.edu.cn</b></p>
 <!--       <p><b>[<a href="" target="_blank">Google Scholar</a>] [<a href="https://github.com/ffhInJyc" target="_blank">GitHub</a>] [<a href="" target="_blank">Semantic Scholar</a>]</b></p> -->
@@ -21,7 +21,7 @@
     <td width="100%">
       <h2>Biography</h2>
 
-       <p>I am a first-year Master's student in the ITML lab in the SIGS, Tsinghua University, supervised by Prof.Shu-Tao Xia. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen in 2023.  
+       <p>I am a first-year master student in the ITML lab in the SIGS, Tsinghua University, supervised by Prof.Shu-Tao Xia. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen in 2023.  
        My research interest includes Trustworthy AI, GAN, and Gradient compression. <br>And I enjoy <b>playing basketball and doing some workouts</b> in my spare time!</p>
     </td>
   </tr>
@@ -56,7 +56,7 @@
   <tr>
     <td width="100%">
       <h2>Publication</h2>
-      <li><b>Hao Fang</b>, Bin Chen, Xuan Wang, Zhi Wang, Shu-Tao Xia, GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization, International Conference on Computer Vision 2023 (ICCV-23), accepted. <b>(CCF A, TsinghuaCS: A)</b>. <a href='https://github.com/ffhibnese/GIFD'>code</a></li>
+      <li><b>Hao Fang</b>, Bin Chen, Xuan Wang, Zhi Wang, Shu-Tao Xia, GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization, International Conference on Computer Vision 2023 (ICCV-23), accepted. <b>(CCF A, TsinghuaCS: A)</b>.  <a href='https://github.com/ffhibnese/GIFD(https://arxiv.org/abs/2308.04699)'>paper</a></li>, <a href='https://github.com/ffhibnese/GIFD'>code</a></li>.
 
     </td>
   </tr>
