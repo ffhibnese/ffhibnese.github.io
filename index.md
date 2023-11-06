@@ -21,7 +21,7 @@
     <td width="100%">
       <h2>Biography</h2>
 
-       <p>I am a first-year master student in the ITML lab in the SIGS, Tsinghua University, supervised by Prof.Shu-Tao Xia. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen in 2023.  
+       <p>I am a first-year master's student in the ITML lab in the SIGS, Tsinghua University, supervised by Prof.Shu-Tao Xia. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen in 2023.  
        My research interest includes Trustworthy AI, GAN, and Gradient compression. <br>And I enjoy <b>playing basketball and doing some workouts</b> in my spare time!</p>
     </td>
   </tr>
@@ -32,8 +32,8 @@
   <tr>
     <td width="100%">
       <h2>Received Honors</h2>
-      <p>Hao has received many honors as follows (but not limited to):</p>
-<li><b>National Scholarship for Undergraduate Students</b> Top 1.5%</li>
+      <p>Fang has received many honors as follows (but not limited to):</p>
+<li>Chinese National Scholarship for Undergraduate Students Top 1.5%</li>
 <li>First class scholarship * 3 Top 5% </li>
 <li>GongJin scholarship Top 1.85%</li>
 <li>Fang Binxing Scholarship</li>
@@ -43,8 +43,6 @@
 <li>Excellent Student Model 0.3%</li>
 <li>Outstanding Student Award for Scientific Research Commendation of Guangdong Provincial Key Laboratory</li>
 <li>Provincial First Prize in the Blue Bridge Cup Program Competition</li>
-<li>Provincial second prize of the National College Students' Mathematics Competition </li>
-<li>Provincial third prize of the National College Students' Mathematical Modeling Competition </li>
 <li>Honorable Mention of the American College Students' Mathematical Modeling Competition </li>
 <li>The second prize of the 17th National University Student Smart Car Competition in China Southern District</li>
 
@@ -72,7 +70,7 @@
       <li>2021.12-2022.8  The federated learning project cooperated by ICES Lab and China Unicom Payment Corporation.</li> 
       <p>In the early stage, he was responsible for the research and learning of homomorphic encryption algorithms and the research of federated learning algorithms such as logical regression under semi-homomorphic encryption. In the middle stage, he is responsible for the deployment of the stand-alone FATE framework and the operation and implementation of the FATE federated learning algorithm. In the later stage, he is responsible for the cross-version transplant of  vertical federated model merge, and writing the report for final check. He has done experiments and written technical documents many times, which have been highly praised by teachers.</p>
       <li>2022.3-2022.7   Internship in the ITML lab of Tsinghua University. </li>
-      <p>He mainly studies federated/distributed gradient compression algorithms and gradient-based leakage attacks. So far, he has read more than 20 papers, reproduced a number of experiments, and written nearly 40 pages of reports. During this period, he assists his fellow to finish an article and contribute it to INFOCOM.</p>
+      <p>He mainly studies federated/distributed gradient compression algorithms and gradient-based leakage attacks. During this period, he assists his fellow to finish an article and contribute it to INFOCOM.</p>
     </td>
   </tr>
 </table>
