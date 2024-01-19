@@ -21,7 +21,7 @@
     <td width="100%">
       <h2>Biography</h2>
 
-       <p>I am a first-year master's student in the ITML lab in the SIGS, Tsinghua University, supervised by Prof.Shu-Tao Xia. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen in 2023.  
+       <p>I am a first-year master's student in the ITML lab in the SIGS, Tsinghua University, supervised by Prof.Bin-Chen and Prof.Shu-Tao Xia. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen in 2023.  
        My research interest includes Trustworthy AI, GAN, and Gradient compression. <br>And I enjoy <b>playing basketball and doing some workouts</b> in my spare time!</p>
     </td>
   </tr>
