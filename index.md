@@ -75,6 +75,17 @@
   </tr>
 </table>
 
+
+
+<table class="imgtable">
+  <tr>
+    <td width="100%">
+      <h2>Academic Services</h2>
+      <li>IJCAI-2024 Review</li>
+    </td>
+  </tr>
+</table>
+
 <table class="imgtable">
   <tr>
     <td width="100%">
