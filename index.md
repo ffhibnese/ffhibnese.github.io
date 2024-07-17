@@ -55,6 +55,9 @@
     <td width="100%">
       <h2>Publication</h2>
       <li><b>Hao Fang</b>, Bin Chen, Xuan Wang, Zhi Wang, Shu-Tao Xia, GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization, International Conference on Computer Vision 2023 (ICCV-23), accepted. <b>(CCF A, TsinghuaCS: A)</b>.  <a href='https://github.com/ffhibnese/GIFD(https://arxiv.org/abs/2308.04699)'>paper</a>, <a href='https://github.com/ffhibnese/GIFD'>code</a>. </li>
+      <li><b>Hao Fang*</b>, Jiawei Kong*, Bin Chen#, Tao Dai, Hao Wu, Shu-Tao Xia, CLIP-Guided Networks for Transferable Targeted Attacks, European Conference on Computer Vision 2024 (ECCV-24), accepted. <b>(CCF B, TsinghuaCS: A)</b>.  <a href='[https://github.com/ffhibnese/GIFD(https://arxiv.org/abs/2308.04699)](http://arxiv.org/abs/2407.10179)'>paper</a>, <a href='[https://github.com/ffhibnese/GIFD](https://github.com/ffhibnese/CGNC_Targeted_Adversarial_Attacks)'>code</a>. </li>
+      <li><b>Yixiang Qiu*</b>, Hao Fang*, Hongyao Yu*, Bin Chen#, Meikang Qiu, Shu-Tao Xia, A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks, European Conference on Computer Vision 2024 (ECCV-24), accepted. <b>(CCF B, TsinghuaCS: A)</b>.  <a href=''>paper</a>, <a href='https://github.com/final-solution/IF-GMI'>code</a>. </li>
+      
 
     </td>
   </tr>
