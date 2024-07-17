@@ -81,13 +81,9 @@
 <table class="imgtable">
   <tr>
     <td width="100%">
-      <h2>Skills</h2>
-      <li>C language programming</li>
-      <li>Python/Pytorch programming</li>
-      <li>Federated learning</li>
-      <li>Application of GAN model</li>
-      <li>Distributed gradient compression</li>
-      <li>Machine learning algorithm</li>
+      <h2>Service</h2>
+      <li>Reviewer for IJCAI 2024</li>
+      <li>Reviewer for IEEE Transactions on Medical Imaging</li>
     </td>
   </tr>
 </table>
