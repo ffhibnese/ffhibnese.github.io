@@ -22,7 +22,7 @@
       <h2>Biography</h2>
 
        <p>I am a first-year master's student in the ITML lab in the SIGS, Tsinghua University, supervised by Prof.Bin-Chen and Prof.Shu-Tao Xia. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen in 2023.  
-       My research interest includes Trustworthy AI, GAN, and Gradient compression. <br>And I enjoy <b>playing basketball and doing some workouts</b> in my spare time!</p>
+       My research interests include Trustworthy AI, Generative Models, and Foundation Models. <br>And I enjoy <b>playing basketball and doing some workouts</b> in my spare time!</p>
     </td>
   </tr>
 </table>
@@ -54,7 +54,7 @@
   <tr>
     <td width="100%">
       <h2>Publication</h2>
-      <li><b>Hao Fang</b>, Bin Chen, Xuan Wang, Zhi Wang, Shu-Tao Xia, GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization, International Conference on Computer Vision 2023 (ICCV-23), accepted. <b>(CCF A, TsinghuaCS: A)</b>.  <a href='https://github.com/ffhibnese/GIFD(https://arxiv.org/abs/2308.04699)'>paper</a>, <a href='https://github.com/ffhibnese/GIFD'>code</a>. </li>
+      <li><b>Hao Fang</b>, Bin Chen#, Xuan Wang, Zhi Wang, Shu-Tao Xia, GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization, International Conference on Computer Vision 2023 (ICCV-23), accepted. <b>(CCF A, TsinghuaCS: A)</b>.  <a href='https://github.com/ffhibnese/GIFD(https://arxiv.org/abs/2308.04699)'>paper</a>, <a href='https://github.com/ffhibnese/GIFD'>code</a>. </li>
       <li><b>Hao Fang*</b>, Jiawei Kong*, Bin Chen#, Tao Dai, Hao Wu, Shu-Tao Xia, CLIP-Guided Networks for Transferable Targeted Attacks, European Conference on Computer Vision 2024 (ECCV-24), accepted. <b>(CCF B, TsinghuaCS: A)</b>.  <a href='[https://github.com/ffhibnese/GIFD(https://arxiv.org/abs/2308.04699)](http://arxiv.org/abs/2407.10179)'>paper</a>, <a href='[https://github.com/ffhibnese/GIFD](https://github.com/ffhibnese/CGNC_Targeted_Adversarial_Attacks)'>code</a>. </li>
       <li><b>Yixiang Qiu*</b>, Hao Fang*, Hongyao Yu*, Bin Chen#, Meikang Qiu, Shu-Tao Xia, A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks, European Conference on Computer Vision 2024 (ECCV-24), accepted. <b>(CCF B, TsinghuaCS: A)</b>.  <a href=''>paper</a>, <a href='https://github.com/final-solution/IF-GMI'>code</a>. </li>
       
@@ -86,7 +86,7 @@
     <td width="100%">
       <h2>Service</h2>
       <li>Reviewer for IJCAI 2024</li>
-      <li>Reviewer for IEEE Transactions on Medical Imaging</li>
+      <li>Reviewer for IEEE Transactions on Medical Imaging 2024</li>
     </td>
   </tr>
 </table>
