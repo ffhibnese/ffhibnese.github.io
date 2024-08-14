@@ -6,7 +6,7 @@
     </td>
     <td width="74%">
       <h2>Hao Fang</h2>
-      <p><b>1-year Master degree candidate</b></p>
+      <p><b>2-year Master degree candidate</b></p>
       <p><b>Address: SIGS, Tsinghua University, Shenzhen, Guangdong Province, China</b></p>
       <p><b>Research Interest: Trustworthy AI, Computer Vision, Gradient Compression</b></p>
       <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
@@ -21,7 +21,7 @@
     <td width="100%">
       <h2>Biography</h2>
 
-       <p>I am a first-year master's student in the ITML lab in the SIGS, Tsinghua University, supervised by Prof.Bin-Chen and Prof.Shu-Tao Xia. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen in 2023.  
+       <p>I am a second-year master's student in the ITML lab in the SIGS, Tsinghua University, supervised by Prof.Bin-Chen and Prof.Shu-Tao Xia. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen in 2023.  
        My research interests include Trustworthy AI, Generative Models, and Foundation Models. <br>And I enjoy <b>playing basketball and doing some workouts</b> in my spare time!</p>
     </td>
   </tr>
@@ -56,27 +56,13 @@
       <h2>Publication</h2>
       <li><b>Hao Fang</b>, Bin Chen#, Xuan Wang, Zhi Wang, Shu-Tao Xia, GIFD: A Generative Gradient Inversion Method with Feature Domain Optimization, International Conference on Computer Vision 2023 (ICCV-23), accepted. <b>(CCF A, TsinghuaCS: A)</b>.  <a href='https://github.com/ffhibnese/GIFD(https://arxiv.org/abs/2308.04699)'>paper</a>, <a href='https://github.com/ffhibnese/GIFD'>code</a>. </li>
       <li><b>Hao Fang</b>, Jiawei Kong, Bin Chen#, Tao Dai, Hao Wu, Shu-Tao Xia, CLIP-Guided Networks for Transferable Targeted Attacks, European Conference on Computer Vision 2024 (ECCV-24), accepted. <b>(CCF B, TsinghuaCS: A)</b>.  <a href='[https://github.com/ffhibnese/GIFD(https://arxiv.org/abs/2308.04699)](http://arxiv.org/abs/2407.10179)'>paper</a>, <a href='[https://github.com/ffhibnese/GIFD](https://github.com/ffhibnese/CGNC_Targeted_Adversarial_Attacks)'>code</a>. </li>
-      <li>Yixiang Qiu,<b> Hao Fang (co-first author)</b>, Hongyao Yu, Bin Chen#, Meikang Qiu, Shu-Tao Xia, A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks, European Conference on Computer Vision 2024 (ECCV-24), accepted. <b>(CCF B, TsinghuaCS: A)</b>.  <a href=''>paper</a>, <a href='https://github.com/final-solution/IF-GMI'>code</a>. </li>
+      <li>Yixiang Qiu,<b> Hao Fang (co-first author)</b>, Hongyao Yu, Bin Chen#, Meikang Qiu, Shu-Tao Xia, A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks, European Conference on Computer Vision 2024 (ECCV-24 Oral), accepted. <b>(CCF B, TsinghuaCS: A)</b>.  <a href=''>paper</a>, <a href='https://github.com/final-solution/IF-GMI'>code</a>. </li>
       
 
     </td>
   </tr>
 </table>
 
-
-<table class="imgtable">
-  <tr>
-    <td width="100%">
-      <h2>Project Experimence</h2>
-      <li>2019-2020  WeChat applet development project for campus market trading.</li>
-      <p>As the team leader, he is mainly responsible for the front-end development and interface building of the WeChat applet.</p>
-      <li>2021.12-2022.8  The federated learning project cooperated by ICES Lab and China Unicom Payment Corporation.</li> 
-      <p>In the early stage, he was responsible for the research and learning of homomorphic encryption algorithms and the research of federated learning algorithms such as logical regression under semi-homomorphic encryption. In the middle stage, he is responsible for the deployment of the stand-alone FATE framework and the operation and implementation of the FATE federated learning algorithm. In the later stage, he is responsible for the cross-version transplant of  vertical federated model merge, and writing the report for final check. He has done experiments and written technical documents many times, which have been highly praised by teachers.</p>
-      <li>2022.3-2022.7   Internship in the ITML lab of Tsinghua University. </li>
-      <p>He mainly studies federated/distributed gradient compression algorithms and gradient-based leakage attacks. During this period, he assists his fellow to finish an article and contribute it to INFOCOM.</p>
-    </td>
-  </tr>
-</table>
 
 
 
