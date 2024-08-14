@@ -37,13 +37,9 @@
 <li>First class scholarship * 3 Top 5% </li>
 <li>GongJin scholarship Top 1.85%</li>
 <li>Fang Binxing Scholarship</li>
-<li>Progress of star in SaiWei Scholarship</li>
-<li>School-level Excellent students * 2</li>
-<li>School-level Excellent League Member * 2</li>
 <li>Excellent Student Model 0.3%</li>
 <li>Outstanding Student Award for Scientific Research Commendation of Guangdong Provincial Key Laboratory</li>
 <li>Provincial First Prize in the Blue Bridge Cup Program Competition</li>
-<li>Honorable Mention of the American College Students' Mathematical Modeling Competition </li>
 <li>The second prize of the 17th National University Student Smart Car Competition in China Southern District</li>
 
     </td>
@@ -62,9 +58,6 @@
     </td>
   </tr>
 </table>
-
-
-
 
 
 <table class="imgtable">
