@@ -32,7 +32,6 @@
   <tr>
     <td width="100%">
       <h2>Received Honors</h2>
-      <p>Fang has received many honors as follows (but not limited to):</p>
 <li>Chinese National Scholarship for Undergraduate Students Top 1.5%</li>
 <!-- <li>First class scholarship * 3 Top 5% </li> -->
 <li>GongJin scholarship Top 1.85%</li>
@@ -41,7 +40,6 @@
 <li>Outstanding Student Award for Scientific Research Commendation of Guangdong Provincial Key Laboratory</li>
 <!-- <li>Provincial First Prize in the Blue Bridge Cup Program Competition</li> -->
 <!-- <li>The second prize of the 17th National University Student Smart Car Competition in China Southern District</li> -->
-
     </td>
   </tr>
 </table>
