@@ -8,7 +8,7 @@
       <h2>Hao Fang</h2>
       <p><b>2-year Master degree candidate</b></p>
       <p><b>Address: SIGS, Tsinghua University, Shenzhen, Guangdong Province, China</b></p>
-      <p><b>Research Interest: Trustworthy AI, Computer Vision, Gradient Compression</b></p>
+      <p><b>Research Interest: Trustworthy AI, AIGC Security, Computer Vision</b></p>
       <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
       <p><b>E-mail: fang-h23@mails.tsinghua.edu.cn</b></p>
 <!--       <p><b>[<a href="" target="_blank">Google Scholar</a>] [<a href="https://github.com/ffhInJyc" target="_blank">GitHub</a>] [<a href="" target="_blank">Semantic Scholar</a>]</b></p> -->
@@ -52,7 +52,7 @@
       <li><b>Hao Fang</b>, Jiawei Kong, Bin Chen#, Tao Dai, Hao Wu, Shu-Tao Xia, CLIP-Guided Networks for Transferable Targeted Attacks, European Conference on Computer Vision 2024 (ECCV-24), accepted. <b>(CCF B, TsinghuaCS: A)</b>.  <a href='[https://github.com/ffhibnese/GIFD(https://arxiv.org/abs/2308.04699)](http://arxiv.org/abs/2407.10179)'>paper</a>, <a href='[https://github.com/ffhibnese/GIFD](https://github.com/ffhibnese/CGNC_Targeted_Adversarial_Attacks)'>code</a>. </li>
       <li>Yixiang Qiu,<b> Hao Fang (co-first author)</b>, Hongyao Yu, Bin Chen#, Meikang Qiu, Shu-Tao Xia, A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks, European Conference on Computer Vision 2024 (ECCV-24 Oral), accepted. <b>(CCF B, TsinghuaCS: A)</b>.  <a href=''>paper</a>, <a href='https://github.com/final-solution/IF-GMI'>code</a>. </li>
       <li>Xinhao Zhong,<b> Hao Fang (co-first author)</b>, Bin Chen#, Xulin Gu, Meikang Qiu, Shuhan Qi, Shu-Tao Xia, Hierarchical Features Matter: A Deep Exploration of Progressive Parameterization Method for Dataset Distillation, Conference on Computer Vision and Pattern Recognition 2025 (CVPR-2025), accepted. <b>(CCF A, TsinghuaCS: A)</b>.  <a href=''>paper</a>, <a href='https://github.com/ndhg1213/H-PD'>code</a>. </li>
-      <li>Tianqu Zhuang, Hongyao Yu, Yixiang Qiu, <b> Hao Fang </b>, Bin Chen, Shu-Tao Xia, Stealthy Shield Defense: A Conditional Mutual Information-Based Approach against Black-Box Model Inversion Attacks, The Thirteenth International Conference on Learning Representations (ICLR-2025), accepted. <b>(TsinghuaCS: A)</b>.  <a href=''>paper</a>, <a href=''>code</a>. </li>
+      <li>Tianqu Zhuang, Hongyao Yu, Yixiang Qiu, <b> Hao Fang (co-first author)</b>, Bin Chen, Shu-Tao Xia, Stealthy Shield Defense: A Conditional Mutual Information-Based Approach against Black-Box Model Inversion Attacks, The Thirteenth International Conference on Learning Representations (ICLR-2025), accepted. <b>(TsinghuaCS: A)</b>.  <a href=''>paper</a>, <a href=''>code</a>. </li>
        <li>Xinhao Zhong, Bin Chen, <b>Hao Fang </b>, Xulin Gu, Shu-Tao Xia, EN-HUI YANG, Going Beyond Feature Similarity: Effective Dataset distillation based on Class-aware Conditional Mutual Information, The Thirteenth International Conference on Learning Representations (ICLR-2025), accepted. <b>(TsinghuaCS: A)</b>.  <a href=''>paper</a>, <a href=''>code</a>. </li>
       
 
