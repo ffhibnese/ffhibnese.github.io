@@ -6,7 +6,7 @@
     </td>
     <td width="74%">
       <h2>Hao Fang</h2>
-      <p><b>2-year Master degree candidate</b></p>
+      <p><b>2-year P.h.D degree candidate</b></p>
       <p><b>Address: SIGS, Tsinghua University, Shenzhen, Guangdong Province, China</b></p>
       <p><b>Research Interest: Trustworthy AI, AIGC Security, Computer Vision</b></p>
       <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
