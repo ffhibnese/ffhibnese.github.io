@@ -70,8 +70,8 @@
   <tr>
     <td width="100%">
       <h2>Service</h2>
-      <li>Reviewer for IJCAI 2024, ICLR 2025, CVPR 2025, ICCV 2025, NeurIPS 2025</li>
-      <li>Reviewer for IEEE Transactions on Medical Imaging</li>
+      <li>Reviewer for IJCAI 2024, ICLR 2025, CVPR 2025, ICCV 2025, NeurIPS 2025, MM 2025</li>
+      <li>Reviewer for IEEE Transactions on Information Forensics and Security, IEEE Transactions on Medical Imaging</li>
     </td>
   </tr>
 </table>
