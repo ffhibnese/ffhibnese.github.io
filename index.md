@@ -10,7 +10,7 @@
       <p><b>Address: SIGS, Tsinghua University, Shenzhen, Guangdong Province, China</b></p>
       <p><b>Research Interest: Trustworthy AI, AIGC Security, Computer Vision</b></p>
       <p><b>Lab: ITML, SIGS, Tsinghua University</b></p>
-      <p><b>E-mail: fang-h23@mails.tsinghua.edu.cn</b></p>
+      <p><b>E-mail: fangh25@mails.tsinghua.edu.cn</b></p>
 <!--       <p><b>[<a href="" target="_blank">Google Scholar</a>] [<a href="https://github.com/ffhInJyc" target="_blank">GitHub</a>] [<a href="" target="_blank">Semantic Scholar</a>]</b></p> -->
     </td>
   </tr>
@@ -71,7 +71,7 @@
     <td width="100%">
       <h2>Service</h2>
       <li>Reviewer for IJCAI 2024, ICLR 2025, CVPR 2025, ICCV 2025, NeurIPS 2025, MM 2025</li>
-      <li>Reviewer for IEEE Transactions on Information Forensics and Security, IEEE Transactions on Medical Imaging</li>
+      <li>Reviewer for IEEE Transactions on Information Forensics and Security, IEEE Transactions on Mobile Computing, IEEE Transactions on Medical Imaging</li>
     </td>
   </tr>
 </table>
