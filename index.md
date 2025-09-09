@@ -71,7 +71,7 @@
     <td width="100%">
       <h2>Service</h2>
       <li>Reviewer for ICLR 2025/2026, CVPR 2025, NeurIPS 2025, MM 2025, IJCAI 2024</li>
-      <li>Reviewer for IEEE Transactions on Information Forensics and Security, IEEE Transactions on Mobile Computing, IEEE Transactions on Medical Imaging</li>
+      <li>Reviewer for IEEE IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Medical Imaging</li>
     </td>
   </tr>
 </table>
