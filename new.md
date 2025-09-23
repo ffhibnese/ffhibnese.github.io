@@ -1,0 +1,124 @@
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="description" content="Hao Fang's homepage">
+	<link rel="stylesheet" href="./jemdoc.css" type="text/css">
+	<title>Hao Fang</title>
+</head>
+
+
+<body>
+
+<div id="layout-content" style="margin-top:25px">
+
+<table>
+	<tbody>
+		<tr>
+			<td width="670">
+				<div id="toptitle">					
+					<h1>Hao Fang &nbsp;</div>
+
+				<h3>3-year PhD candidate</h3>  
+				<p>
+					Room 1622, Information Building <br>
+					Tsinghua Shenzhen International Graduate School<br>
+					Shenzhen, Guangdong Province, China, 518055<br>
+					<br>
+Email:  <a href="mailto:ffhibnese@gmail.com">ffhibnese@gmail.com</a>; <a href="mailto:fangh25@mails.tsinghua.edu.cn">fangh25@mails.tsinghua.edu.cn</a> <br>
+Github: <a href="[https://github.com/final-solution](https://github.com/ffhibnese)">FFHow</a> <br>
+<a href="[https://scholar.google.com/citations?hl=zh-CN&user=kxotrxgAAAAJ](https://scholar.google.com/citations?user=12237G0AAAAJ&hl=zh-CN)">[Google Scholar]</a><a href="https://orcid.org/0009-0004-0271-6579">[ORCID]</a><br>
+				</p>
+			</td>
+			<td>
+				<img src="./IMG_2013(20221209-204634).JPG" border="0" width="200">
+			</td>
+		</tr><tr>
+	</tr></tbody>
+</table>
+<h2>Biography</h2>
+<p>
+	I am a third-year PhD student in the ITML lab in the SIGS, Tsinghua University, where I am fortunate to be supervised by Prof.<a href="https://www.sigs.tsinghua.edu.cn/xst/list.htm">Shu-Tao Xia</a>. I also work closely with Prof.<a href="https://binchen2021.github.io">Bin-Chen</a>. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen, in 2023. 
+And I enjoy playing basketball and doing some workouts in my spare time! 
+</p>
+<p>
+	My research interests primarily include Trustworthy AI, Generative Models, and Foundation Models, with a particular focus on the security issues of LLMs, LRMs, and agents.
+</p>
+<h2>News</h2>
+
+<ul>
+	  <li>
+	 [Aug. 2025] Our paper "<a href='https://arxiv.org/abs/2505.15337'>Your Language Model Can Secretly Write Like Humans: Contrastive Paraphrase Attacks on LLM-Generated Text Detectors</a>" has been accepted as a <strong>Poster</strong> presentation in the <font color="#FF0000"><strong>Main Conference</strong></font> of <a href="https://2025.emnlp.org/">EMNLP</a> 2025.
+      </li>
+      <li>
+	 [Jul. 2025] Our paper "<a href='https://arxiv.org/abs/2507.05068'>ICAS: Detecting Training Data from Autoregressive Image Generative Models</a>" has been accepted as a <strong>Poster</strong> presentation in the <a href="https://acmmm2025.org/">ACM MM</a> 2025.
+      </li>
+      <li>
+	 [Jan. 2025] Our paper "<a href='https://openreview.net/pdf?id=p0DjhjPXl3'>Stealthy Shield Defense: A Conditional Mutual Information-Based Approach against Black-Box Model Inversion Attacks</a>" has been accepted as a <strong>Poster</strong> presentation in the <a href="https://www.iclr.cc/Conferences/2025">ICLR</a> 2025.
+      </li>
+      <li>
+	 [Jul. 2024] Our paper "<a href='https://arxiv.org/abs/2407.13863'>A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks</a>" has been accepted as an <font color="#FF0000"><strong>Oral</strong></font> presentation in the <a href="https://eccv2024.ecva.net/">ECCV</a> 2024.
+      </li>
+</ul>
+
+<h2>Publications</h2>
+
+(* equal contribution; <sup>#</sup> corresponding author)
+<h3>2025</h3>
+<ul>
+	<li>
+		<a href='https://arxiv.org/abs/2505.15337'>Your Language Model Can Secretly Write Like Humans: Contrastive Paraphrase Attacks on LLM-Generated Text Detectors</a>(<font color="#FF0000"><strong>Main Conference</strong></font>)<br>
+         Hao Fang, Jiawei Kong, Tianqu Zhuang, <strong>Yixiang Qiu</strong>, Kuofeng Gao, Bin Chen<sup>#</sup>, Shu-Tao Xia, Yaowei Wang, and Min Zhang<br>
+         The 2025 Conference on Empirical Methods in Natural Language Processing<strong>(EMNLP)</strong>, 2025<br>
+	</li>	
+	<li>
+         <a href='https://arxiv.org/abs/2507.05068'>ICAS: Detecting Training Data from Autoregressive Image Generative Models</a><br>
+         Hongyao Yu, <strong>Yixiang Qiu</strong>, Yiheng Yang, Hao Fang, Tianqu Zhuang, Jiaxin Hong, Bin Chen<sup>#</sup>, Hao Wu, and Shu-Tao Xia<br>
+         ACM Multimedia<strong>(ACM MM)</strong>, 2025<br>
+   	</li>
+	<li>
+         <a href='https://openreview.net/pdf?id=p0DjhjPXl3'>Stealthy Shield Defense: A Conditional Mutual Information-Based Approach against Black-Box Model Inversion Attacks</a><br>
+         Tianqu Zhuang*, Hongyao Yu*, <strong>Yixiang Qiu*</strong>, Hao Fang*, Bin Chen<sup>#</sup>, and Shu-Tao Xia<br>
+         International Conference on Learning Representations<strong>(ICLR)</strong>, 2025<br>
+   	</li>
+</ul>
+
+<h3>2024</h3>
+<ul>
+	<li>
+         <a href='https://arxiv.org/abs/2407.13863'>A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks</a>(<font color="#FF0000"><strong>Oral</strong></font>)<br>
+         <strong>Yixiang Qiu*</strong>, Hao Fang*, Hongyao Yu*, Bin Chen<sup>#</sup>, Meikang Qiu, and Shu-Tao Xia<br>
+         European Conference on Computer Vision<strong>(ECCV)</strong>, 2024<br>
+   	</li>
+</ul>
+
+<h2>Services</h2>
+I was a reviewer / PC member of conferences：
+<li>IEEE Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong> 2025</li>
+<li>ACM Multimedia <strong>(MM)</strong> 2025</li>
+<li>Neural Information Processing Systems <strong>(NeurIPS)</strong> 2025</li>
+<li>International Conference on Learning Representations <strong>(ICLR)</strong> 2025-2026</li>
+<li>International Joint Conferences on Artificial Intelligence <strong>(IJCAI)</strong> 2024</li>
+, 
+
+I was a reviewer of journals:
+<li>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong></li>
+<li>IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong></li>
+<li>IEEE Transactions on Mobile Computing <strong>(TMC)</strong></li>
+<li>IEEE Transactions on Medical Imaging <strong>(TMI)</strong></li>
+
+
+<!--<h2>Competitions</h2>-->
+
+<h2>Honors &amp; Awards</h2>
+<ul>
+	<li> <strong>First class scholarship × 3</strong>, Harbin Institute of Technology, Shenzhen</li>
+	<li> <strong>Fang Binxing Academician Scholarship</strong>, Harbin Institute of Technology, Shenzhen, 2023.03</li>
+	<li> <strong>Chinese National Scholarship for Undergraduate Students (Top 1.5%)</strong>, Harbin Institute of Technology, Shenzhen, 2022.12</li>
+	<li> <strong>Excellent Student Model (Top 0.3%)</strong>, 2022.09</li>
+  
+</ul>
+
+<div id="footer">
+	<div id="footer-text"></div>
+</div>
+2025 Hao Fang<br>
+</body></html>
