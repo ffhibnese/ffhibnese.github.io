@@ -17,7 +17,7 @@
 				<div id="toptitle">					
 					<h1>Hao Fang &nbsp;</div>
 
-				<h3>3-year PhD candidate</h3>  
+				<h3>3-year Ph.D. candidate</h3>  
 				<p>
 					Room 1622, Information Building <br>
 					Tsinghua Shenzhen International Graduate School<br>
@@ -36,7 +36,7 @@ Github: <a href="[https://github.com/final-solution](https://github.com/ffhibnes
 </table>
 <h2>Biography</h2>
 <p>
-	I am a third-year PhD student in the ITML lab in the SIGS, Tsinghua University, where I am fortunate to be supervised by Prof.<a href="https://www.sigs.tsinghua.edu.cn/xst/list.htm">Shu-Tao Xia</a>. I also work closely with Prof.<a href="https://binchen2021.github.io">Bin-Chen</a>. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen, in 2023. 
+	I am a third-year Ph.D. student in the ITML lab in the SIGS, Tsinghua University, where I am fortunate to be supervised by Prof.<a href="https://www.sigs.tsinghua.edu.cn/xst/list.htm">Shu-Tao Xia</a>. I also work closely with Prof.<a href="https://binchen2021.github.io">Bin-Chen</a>. I received my B.S. degree in Computer Science and Technology from Harbin Institute of Technology, Shenzhen, in 2023. 
 And I enjoy playing basketball and doing some workouts in my spare time! 
 </p>
 <p>
