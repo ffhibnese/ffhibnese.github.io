@@ -42,22 +42,6 @@ And I enjoy playing basketball and doing some workouts in my spare time!
 <p>
 	My research interests primarily include Trustworthy AI, Generative Models, and Foundation Models, with a particular focus on the security issues of LLMs, LRMs, and agents.
 </p>
-<h2>News</h2>
-
-<ul>
-	  <li>
-	 [Aug. 2025] Our paper "<a href='https://arxiv.org/abs/2505.15337'>Your Language Model Can Secretly Write Like Humans: Contrastive Paraphrase Attacks on LLM-Generated Text Detectors</a>" has been accepted as a <strong>Poster</strong> presentation in the <font color="#FF0000"><strong>Main Conference</strong></font> of <a href="https://2025.emnlp.org/">EMNLP</a> 2025.
-      </li>
-      <li>
-	 [Jul. 2025] Our paper "<a href='https://arxiv.org/abs/2507.05068'>ICAS: Detecting Training Data from Autoregressive Image Generative Models</a>" has been accepted as a <strong>Poster</strong> presentation in the <a href="https://acmmm2025.org/">ACM MM</a> 2025.
-      </li>
-      <li>
-	 [Jan. 2025] Our paper "<a href='https://openreview.net/pdf?id=p0DjhjPXl3'>Stealthy Shield Defense: A Conditional Mutual Information-Based Approach against Black-Box Model Inversion Attacks</a>" has been accepted as a <strong>Poster</strong> presentation in the <a href="https://www.iclr.cc/Conferences/2025">ICLR</a> 2025.
-      </li>
-      <li>
-	 [Jul. 2024] Our paper "<a href='https://arxiv.org/abs/2407.13863'>A Closer Look at GAN Priors: Exploiting Intermediate Features for Enhanced Model Inversion Attacks</a>" has been accepted as an <font color="#FF0000"><strong>Oral</strong></font> presentation in the <a href="https://eccv2024.ecva.net/">ECCV</a> 2024.
-      </li>
-</ul>
 
 <h2>Publications</h2>
 
@@ -79,6 +63,7 @@ And I enjoy playing basketball and doing some workouts in my spare time!
          Tianqu Zhuang*, Hongyao Yu*, <strong>Yixiang Qiu*</strong>, Hao Fang*, Bin Chen<sup>#</sup>, and Shu-Tao Xia<br>
          International Conference on Learning Representations<strong>(ICLR)</strong>, 2025<br>
    	</li>
+	
 </ul>
 
 <h3>2024</h3>
